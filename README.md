@@ -7,7 +7,7 @@ With that being said, **I will not be generalizing the code**, so pay careful at
 This will probably still be set to our local user. If you don't edit this (right click FRC Robot Boot-up Deployment under Build Specifications) you will error out when attempting to build the program.
 
 ### Libraries
-This project uses the CTRE, REV Robotics, and navX repositories, not to mention the base FRC suite. Please ensure these are installed to prevent any suicidal tendencies.
+This project uses the [CTRE](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases) (There have been some changes to the Phoenix framework, and idk if LabVIEW is supported anymore), [REV Robotics](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#labview), and [navX](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/labview/) repositories, not to mention the base FRC suite. Please ensure these are installed to prevent any suicidal tendencies.
 
 ### MHZLib
 I would hope it isn't a problem since it's in the base directory, but ensure that all the auto-populating folders are, in fact, auto populating. If correct, it should look like this:
