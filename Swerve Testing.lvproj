@@ -290,7 +290,6 @@
 			<Item Name="In Place Sanity.vi" Type="VI" URL="../MHZLib/In Place Sanity.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../MHZLib/Variables and Definitions/Robot Global Data.vi"/>
-			<Item Name="DB Auton Data.ctl" Type="VI" URL="../MHZLib/Variables and Definitions/DB Auton Data.ctl"/>
 			<Item Name="Comparator.vi" Type="VI" URL="../MHZLib/Comparator.vi"/>
 			<Item Name="Auto_Values.ctl" Type="VI" URL="../MHZLib/Variables and Definitions/Auto_Values.ctl"/>
 		</Item>
@@ -950,6 +949,10 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_DigitalModuleGetDIO.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleGetDIO.vi"/>
 				<Item Name="FPGA_DIOReadDI.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/DIO/FPGA_DIOReadDI.vi"/>
 				<Item Name="Is Value Changed.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Is Value Changed.vim"/>
+				<Item Name="DeviceReference.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/DeviceReference.ctl"/>
+				<Item Name="c_ctre_phoenix6_encode_device.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_encode_device.vi"/>
+				<Item Name="HandleError.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/HandleError.vi"/>
+				<Item Name="c_ctre_phoenix_report_error.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix_report_error.vi"/>
 			</Item>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
