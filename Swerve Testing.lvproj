@@ -365,6 +365,7 @@
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../MHZLib/Variables and Definitions/Robot Global Data.vi"/>
 			<Item Name="Comparator.vi" Type="VI" URL="../MHZLib/Comparator.vi"/>
 			<Item Name="Auto_Values.ctl" Type="VI" URL="../MHZLib/Variables and Definitions/Auto_Values.ctl"/>
+			<Item Name="Auto Aim.vi" Type="VI" URL="../MHZLib/Auto Aim.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Obstacle Editor" Type="EXE">
@@ -1158,7 +1159,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Programmer/Documents/LabVIEW Data/2023 Robot Project/Builds</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2136F65-FD06-4AC9-A317-10E44B9EF7A4}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">13</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
